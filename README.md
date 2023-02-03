@@ -1,18 +1,18 @@
 # Astar
 <h2>Requirements</h2>
 
--Python 3.8+
+-Python 3.8+<br>
 -Pygame
 
 pip install pygame --pre
 
 <h2>How to use it</h2>
 
--1st and 2nd click places the start and the end node.
--Every click after the first 2: place a barrier node that should be avoided by the algorythm.
--Use right click to delete a node.
--Use 'c' to clear everything.
--Use space to start.
+-1st and 2nd click places the start and the end node.<br>
+-Every click after the first 2: place a barrier node that should be avoided by the algorythm.<br>
+-Use right click to delete a node.<br>
+-Use 'c' to clear everything.<br>
+-Use space to start.<br>
 
 <h2>How does it work?</h2>
 
